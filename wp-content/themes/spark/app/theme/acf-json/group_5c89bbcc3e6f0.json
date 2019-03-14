@@ -1,0 +1,293 @@
+{
+    "key": "group_5c89bbcc3e6f0",
+    "title": "Home Page Layout",
+    "fields": [
+        {
+            "key": "field_5c89bbe99fd3b",
+            "label": "Hero 50-50",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5c89bc079fd3c",
+            "label": "Left Image",
+            "name": "left_image",
+            "type": "image",
+            "instructions": "Please select the image you would like to display to the left",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5c89bc609fd3e",
+            "label": "Left Header",
+            "name": "left_header",
+            "type": "text",
+            "instructions": "Enter a header for the left section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bc9c9fd40",
+            "label": "Left Sub-Header",
+            "name": "left_sub_header",
+            "type": "text",
+            "instructions": "Enter a sub-header for the left section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bc399fd3d",
+            "label": "Right Image",
+            "name": "right_image",
+            "type": "image",
+            "instructions": "Please select the image you would like to display to the left",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5c89bc7e9fd3f",
+            "label": "Right Header",
+            "name": "right_header",
+            "type": "text",
+            "instructions": "Enter a header for the right section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bcb39fd41",
+            "label": "Right Sub-Header",
+            "name": "right_sub_header",
+            "type": "text",
+            "instructions": "Enter a sub-header for the right section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bcd5d66de",
+            "label": "Full Width Section",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "left",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5c89bd80d66df",
+            "label": "Header",
+            "name": "header",
+            "type": "text",
+            "instructions": "Enter in a header for this section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bd99d66e0",
+            "label": "Sub Header",
+            "name": "sub_header",
+            "type": "text",
+            "instructions": "Enter in a header for this section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bda9d66e1",
+            "label": "Paragraph",
+            "name": "paragraph",
+            "type": "text",
+            "instructions": "Enter in a paragraph text for this section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5c89bdc9d66e2",
+            "label": "Text Align",
+            "name": "text_align",
+            "type": "button_group",
+            "instructions": "Please select the text alignment",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "left: <i class=\"fa fa-align-right\"><\/i>": "left: <i class=\"fa fa-align-right\"><\/i>",
+                "center: <i class=\"fa fa-align-left\"><\/i>": "center: <i class=\"fa fa-align-left\"><\/i>",
+                "right: <i class=\"fa fa-align-right\"><\/i>": "right: <i class=\"fa fa-align-right\"><\/i>",
+                "justify: <i class=\"fa fa-align-justify\"><\/i>": "justify: <i class=\"fa fa-align-justify\"><\/i>"
+            },
+            "allow_null": 1,
+            "default_value": "",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5c89bf96b8f5b",
+            "label": "Text Color",
+            "name": "text_color",
+            "type": "color_picker",
+            "instructions": "Choose the text color",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_5c89bf5eb8f5a",
+            "label": "Section background color",
+            "name": "section_background_color",
+            "type": "color_picker",
+            "instructions": "Please select the background color for this section",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page",
+                "operator": "==",
+                "value": "25"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": [
+        "the_content"
+    ],
+    "active": 1,
+    "description": "",
+    "modified": 1552531586
+}
