@@ -4,4 +4,4 @@
 
 @extends('layouts.app')
 
-
+@include('components/hero-fifty')
