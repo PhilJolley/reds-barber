@@ -1,25 +1,38 @@
 body.home {
-
-}
-.hero-fifty{
-  width: 100%;
-  height: auto;
-  .uk-width-1-2.right{
-    img{
-      width: 100%;
-      height: auto;
+  .section-layout{
+    padding: 35px 0;
+  }
+  .hero-fifty{
+    width: 100%;
+    height: auto;
+    .uk-width-1-2.right{
+      img{
+        width: 100%;
+        height: auto;
+      }
+    }
+    .uk-width-1-2.left{
+      img{
+        width: 100%;
+        height: auto;
+        -webkit-transform: rotate(-26deg);
+        -moz-transform: rotate(-26deg);
+        -ms-transform: rotate(-26deg);
+        -o-transform: rotate(-26deg);
+        transform: rotate(-26deg);
+        padding-top: 40px;
+      }
     }
   }
-  .uk-width-1-2.left{
-    img{
-      width: 100%;
-      height: auto;
-      -webkit-transform: rotate(-26deg);
-      -moz-transform: rotate(-26deg);
-      -ms-transform: rotate(-26deg);
-      -o-transform: rotate(-26deg);
-      transform: rotate(-26deg);
-      padding-top: 40px;
+  .full-width{
+    .uk-container{
+      .uk-grid{
+        .uk-width-1-1{
+          h3{
+            margin-top: 0;
+          }
+        }
+      }
     }
   }
 }

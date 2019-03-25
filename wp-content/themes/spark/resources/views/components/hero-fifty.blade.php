@@ -8,8 +8,7 @@
   $right_sub_header = get_field('right_sub_header');
 @endphp
 
-@section('content')
-  <div class="hero-fifty">
+<div class="hero-fifty section-layout">
     <div class="uk-container">
       <div class="uk-grid">
         <div class="uk-width-1-2 right">
@@ -20,6 +19,5 @@
         </div>
       </div>
     </div>
-  </div>
+</div>
 
-@endsection
