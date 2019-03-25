@@ -200,7 +200,7 @@
             "key": "field_5c89bda9d66e1",
             "label": "Paragraph",
             "name": "paragraph",
-            "type": "text",
+            "type": "textarea",
             "instructions": "Enter in a paragraph text for this section",
             "required": 0,
             "conditional_logic": 0,
@@ -211,9 +211,9 @@
             },
             "default_value": "",
             "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
         },
         {
             "key": "field_5c89bdc9d66e2",
@@ -289,5 +289,5 @@
     ],
     "active": 1,
     "description": "",
-    "modified": 1552531586
+    "modified": 1553551487
 }

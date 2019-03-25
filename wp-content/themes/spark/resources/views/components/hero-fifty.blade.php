@@ -10,12 +10,14 @@
 
 @section('content')
   <div class="hero-fifty">
-    <div class="uk-grid">
-      <div class="uk-width-1-2 right">
-        <img src="{{$left_image}}" alt="Redmonds Barbershop">
-      </div>
-      <div class="uk-width-1-2 left">
-        <img src="{{$right_image}}" alt="Redmonds Barbershop">
+    <div class="uk-container">
+      <div class="uk-grid">
+        <div class="uk-width-1-2 right">
+          <img src="{{$left_image}}" alt="Redmonds Barbershop">
+        </div>
+        <div class="uk-width-1-2 left">
+          <img src="{{$right_image}}" alt="Redmonds Barbershop">
+        </div>
       </div>
     </div>
   </div>
