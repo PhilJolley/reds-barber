@@ -33,7 +33,10 @@ $breakpoint-large-max: ($breakpoint-xlarge - 1) !default;
 //
 // Colors
 //
-
+$main-red: #c62004;
+$dark-grey: #303230;
+$light-grey: #D2D7DF;
+$grey: #CFCBCA;
 $black: #000;
 $white: #FFF;
 $clear: rgba(0,0,0,0);
@@ -56,11 +59,11 @@ $global-small-font-size: 0.875rem !default; // 14px
 // Colors
 //
 
-$global-color: #666 !default;
+$global-color: $dark-grey !default;
 $global-emphasis-color: #333 !default;
 $global-muted-color: #999 !default;
-$global-link-color: #1e87f0 !default;
-$global-link-hover-color: #0f6ecd !default;
+$global-link-color: $main-red !default;
+$global-link-hover-color: $light-grey !default;
 $global-inverse-color: #fff !default;
 
 //

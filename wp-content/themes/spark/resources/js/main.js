@@ -6,7 +6,7 @@ import UIkit from 'uikit'
 import Icons from 'uikit/dist/js/uikit-icons'
 
 /** Load Icons */
-UIkit.use(Icons)
+UIkit.use(Icons);
 
 /** Import local dependencies */
 import Router from './util/Router'
